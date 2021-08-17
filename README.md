@@ -1,4 +1,4 @@
-## Hello and welcome to my profile
+## Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ
 
 - 🔭 I'm currently looking for a opportunity to get better at my web development skills
 - 🌱 I’m currently learning Javascript and CSS
