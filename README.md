@@ -5,7 +5,7 @@
   💻 - Getting better at JavaScript <br>
   ⚡ - Always ready to learn new things.
   
-  My goal is to be a fullstack developer.
+  My goal is to be a competent fullstack developer.
 
 ## Currently working with:
 <div>
