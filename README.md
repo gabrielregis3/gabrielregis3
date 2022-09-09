@@ -1,7 +1,7 @@
 ## Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ
   
   🔭 - I'm currently working at Ydeal Tecnologia <br>
-  🌱 - I'm currently learning NodeJS and ReactJS <br>
+  🌱 - I'm currently learning PHP and ReactJS <br>
   💻 - Getting better at JavaScript <br>
   ⚡ - Always ready to learn new things.
   
