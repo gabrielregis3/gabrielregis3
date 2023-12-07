@@ -1,8 +1,7 @@
 ## Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ
   
   🔭 - I'm currently working at Allecode <br>
-  💻 - Getting better at PHP and JavaScript <br>
-  ⚡ - Always ready to learn new things.
+  💻 - Getting better at JavaScript and MYSQL <br>
   
   My goal is to be a competent fullstack developer.
 
