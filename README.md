@@ -2,8 +2,9 @@
   
   🔭 - I'm currently working at Allecode <br>
   💻 - Doing small projects <br>
-  🌱 - I’m currently learning TypeScript <br>
+  🌱 - Currently learning TypeScript <br>
   🚀 - Optmizing SQL skills
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielregis3&hide=stars&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
