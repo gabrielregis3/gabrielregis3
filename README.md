@@ -1,5 +1,6 @@
 ## Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ
 
+  <h1>About me</h1>
   💻 - Doing small projects <br>
   🌱 - Currently learning TypeScript <br>
 
