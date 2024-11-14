@@ -10,11 +10,7 @@
 
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23000000.svg?style=flat&logo=javascript&logoColor=yellow)
 
-![Nome da Ferramenta](https://img.shields.io/badge/REACT-%23000000.svg?style=flat&logo=exemplo&logoColor=blue)
-
-![Nome da Ferramenta](https://img.shields.io/badge/NODEJS-%23000000.svg?style=flat&logo=exemplo&logoColor=green)
-
-![Nome da Ferramenta](https://img.shields.io/badge/BOOTSTRAP-%23000000.svg?style=flat&logo=bootstrap&logoColor=purple)
+![React](https://img.shields.io/badge/REACT-%23000000.svg?style=flat&logo=exemplo&logoColor=blue)
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gabrielregis3&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
