@@ -2,7 +2,6 @@
 
 <h3>About me:</h3>
   💻 - Doing small projects <br>
-  🌱 - Currently learning TypeScript <br>
 
 <h3>Languages and Tools:</h3>
 <p align="left" dir="auto">
