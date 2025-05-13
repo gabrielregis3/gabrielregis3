@@ -1,8 +1,5 @@
 <h2> Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ</h2>
 
-<h3>About me:</h3>
-  💻 - Doing small projects <br>
-
 <h3>Languages and Tools:</h3>
 <p align="left" dir="auto">
 
