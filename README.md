@@ -1,4 +1,4 @@
-<h2> Hello and welcome to my profile / Olá bem vindo ao meu perfil / 初めまして私のプロフィールへようこそ</h2>
+<h2>Hello and welcome to my profile / 初めまして私のプロフィールへようこそ</h2>
 
 <h3>Languages and Tools:</h3>
 <p align="left" dir="auto">
@@ -7,6 +7,7 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.devhttps://react.dev)
+[![Bootstrap](https://img.shields.io/badge/TAILWINDCSS-689ac3?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&amp;logo=npm&amp;logoColor=white)](https://www.npmjs.com)
